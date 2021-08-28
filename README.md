@@ -9,4 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Muhammad Dwi Prasetyo, [Dwina.Art](instagram.com/dwina.art)
+* Muhammad Dwi Prasetyo, [dwina.art](https://www.instagram.com/dwina.art/)
